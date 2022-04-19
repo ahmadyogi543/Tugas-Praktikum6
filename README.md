@@ -1,3 +1,3 @@
-# Tugas-Praktikum6
+# Tugas Praktikum6
 
 Silahkan dipelajari...
