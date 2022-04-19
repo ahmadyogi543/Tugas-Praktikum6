@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044231705591",
+    "firebase_url": "https://quadratify-27605-default-rtdb.firebaseio.com",
+    "project_id": "quadratify-27605",
+    "storage_bucket": "quadratify-27605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044231705591:android:20e98200695e8035cb54f2",
+        "android_client_info": {
+          "package_name": "com.joyapps.tugaspraktikum6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044231705591-v4q9479urkhi0q18a07jhmtede107eqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgymgT28PQ3PlQcHBQCkFyUKs7Q504GEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044231705591-v4q9479urkhi0q18a07jhmtede107eqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

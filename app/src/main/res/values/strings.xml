@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tugas Praktikum 6</string>
+    <string name="app_message">Lorem Ipsum is simply dummy text of the printing and typesetting industry and has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</string>
+    <string name="settings">Pengaturan</string>
+    <string name="bg_color_settings">Warna background:</string>
+    <string name="text_size_settings">Ukuran text:</string>
+    <string name="save_settings">SIMPAN</string>
+
+    <string-array name="colors_array">
+        <item>Abu-abu</item>
+        <item>Merah</item>
+        <item>Hijau</item>
+        <item>Kuning</item>
+        <item>Biru</item>
+    </string-array>
+
+    <string-array name="text_size_array">
+        <item>Kecil</item>
+        <item>Sedang</item>
+        <item>Besar</item>
+    </string-array>
+</resources>
